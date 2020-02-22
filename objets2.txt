@@ -1,0 +1,8 @@
+Cartes;1;4
+Trousse;3;10
+Roue;6;17
+Tente;4;13
+Boite;2;6
+Camping gaz;5;14
+Sac de couchage;3;8
+Lampe;2;5
